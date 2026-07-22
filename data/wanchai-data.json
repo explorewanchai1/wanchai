@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "4.2",
-    "updatedAt": "2026-07-22T11:17:09.901Z",
+    "updatedAt": "2026-07-22T11:17:57.101Z",
     "supportedLangs": [
       "en",
       "zh",
@@ -2702,7 +2702,7 @@
     },
     {
       "id": "f05",
-      "title": "My Cup of Tea (我杯茶) test",
+      "title": "My Cup of Tea (我杯茶)",
       "cat": "food",
       "lat": 22.27577,
       "lng": 114.17463,
@@ -2721,8 +2721,8 @@
       "indoor": true,
       "i18n": {
         "en": {
-          "title": "My Cup of Tea (我杯茶) test",
-          "desc": "Award-winning modern tea house celebrated for its authentic, ultra-smooth silk-stocking milk tea — a contemporary take on a beloved Hong Kong tradition. test",
+          "title": "My Cup of Tea (我杯茶)",
+          "desc": "Award-winning modern tea house celebrated for its authentic, ultra-smooth silk-stocking milk tea — a contemporary take on a beloved Hong Kong tradition.",
           "tip": "Try the 'premium' milk tea for the extra-smooth finish — a revelation for tea fans.",
           "hours": "9:00am – 8:00pm",
           "price": "HK$30–$75"
