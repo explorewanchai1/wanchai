@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "4.2",
-    "updatedAt": "2026-07-22T02:36:29.705Z",
+    "updatedAt": "2026-07-22T11:13:32.159Z",
     "supportedLangs": [
       "en",
       "zh",
@@ -2702,7 +2702,7 @@
     },
     {
       "id": "f05",
-      "title": "My Cup of Tea (我杯茶)",
+      "title": "My Cup of Tea (我杯茶) test",
       "cat": "food",
       "lat": 22.27577,
       "lng": 114.17463,
@@ -2721,82 +2721,46 @@
       "indoor": true,
       "i18n": {
         "en": {
-          "title": "My Cup of Tea (我杯茶)",
-          "desc": "Award-winning modern tea house celebrated for its authentic, ultra-smooth silk-stocking milk tea — a contemporary take on a beloved Hong Kong tradition.",
+          "title": "My Cup of Tea (我杯茶) test",
+          "desc": "Award-winning modern tea house celebrated for its authentic, ultra-smooth silk-stocking milk tea — a contemporary take on a beloved Hong Kong tradition. test",
           "tip": "Try the 'premium' milk tea for the extra-smooth finish — a revelation for tea fans.",
           "hours": "9:00am – 8:00pm",
-          "price": "HK$30–$75",
-          "tags": [
-            "milk tea",
-            "tea house",
-            "award-winning",
-            "modern"
-          ]
+          "price": "HK$30–$75"
         },
         "zh": {
           "title": "我杯茶",
           "desc": "屢獲殊榮的現代茶館，以正宗、超順滑的絲襪奶茶著稱——是對深受香港人喜愛傳統的當代詮釋。",
           "tip": "試試「特級」奶茶的額外順滑口感——對茶愛好者來說是一次啟示。",
           "hours": "9:00am – 8:00pm",
-          "price": "HK$30–$75",
-          "tags": [
-            "奶茶",
-            "茶館",
-            "獲獎",
-            "現代"
-          ]
+          "price": "HK$30–$75"
         },
         "ja": {
           "title": "マイカップ オブ ティー（我杯茶）",
           "desc": "受賞歴のある最新式の茶屋。本物で非常にスムーズな絹のようなミルクティーで有名です。愛する香港の伝統の現代的な解釈です。",
           "tip": "上質なミルクティーを試してみてください。滑らかさが追加されて、お茶好きには大変です。",
           "hours": "9:00am – 8:00pm",
-          "price": "HK$30–$75",
-          "tags": [
-            "ミルクティー",
-            "茶房",
-            "受賞歴",
-            "モダン"
-          ]
+          "price": "HK$30–$75"
         },
         "ko": {
           "title": "마이 컵 오브 티 (我杯茶)",
           "desc": "정통적이고 부드러운 비단 스타킹 밀크티로 유명한 수상 경력의 현대식 차 전문점으로 사랑받는 홍콩 전통의 현대적 재해석입니다.",
           "tip": "'프리미엄' 밀크티를 시도해보세요 — 차 팬들에게는 계시나 다름없습니다.",
           "hours": "오전 9:00 – 오후 8:00",
-          "price": "HK$30–$75",
-          "tags": [
-            "밀크티",
-            "차 전문점",
-            "수상",
-            "현대식"
-          ]
+          "price": "HK$30–$75"
         },
         "fr": {
           "title": "My Cup of Tea (我杯茶)",
           "desc": "Maison de thé moderne primée célèbre pour son thé au lait authentique et ultra-lisse en soie — une interprétation contemporaine d'une tradition bien-aimée de Hong Kong.",
           "tip": "Essayez le thé au lait 'premium' pour la finition ultra-lisse — une révélation pour les amateurs de thé.",
           "hours": "9:00am – 8:00pm",
-          "price": "HK$30–$75",
-          "tags": [
-            "thé lait",
-            "maison thé",
-            "primé",
-            "moderne"
-          ]
+          "price": "HK$30–$75"
         },
         "th": {
           "title": "My Cup of Tea (我杯茶)",
           "desc": "บ้านชาสมัยใหม่ที่ได้รับรางวัล เป็นที่ยอดเยี่ยมด้านน้ำชานมแท้ที่เรียบเนียนเหมือนไหม — การตีความสมัยใหม่ของประเพณีฮ่องกงที่รักษา",
           "tip": "ลองน้ำชานม 'พรีเมียม' เพื่อความเรียบนุ่ม — เปิดโลกใหม่สำหรับแฟนชา",
           "hours": "9:00am – 8:00pm",
-          "price": "HK$30–$75",
-          "tags": [
-            "น้ำชานม",
-            "บ้านชา",
-            "ได้รับรางวัล",
-            "สมัยใหม่"
-          ]
+          "price": "HK$30–$75"
         }
       }
     },
