@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "4.2",
-    "updatedAt": "2026-07-22T11:15:22.886Z",
+    "updatedAt": "2026-07-22T11:15:39.022Z",
     "supportedLangs": [
       "en",
       "zh",
@@ -393,8 +393,8 @@
       "footer_brand": "AKI 精品系列 · MGallery",
       "footer_tagline": "Your gateway to Wan Chai",
       "free_label": "Free",
-      "header_brand": "AKI",
-      "header_hotel": "诺富特世纪香港酒店",
+      "header_brand": "探索",
+      "header_hotel": "湾仔",
       "hero_kicker": "AKI · Field Guide",
       "hero_standfirst_html": "// Hand-picked by your concierge at <em>AKI Hotel Hong Kong – MGallery Collection</em> &amp; <em>Novotel Century Hong Kong</em>",
       "hotel_chart_caption": "Inside the Hotels",
